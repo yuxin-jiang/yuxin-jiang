@@ -9,7 +9,7 @@ I am Yuxin Jiang. I am currently a Ph.D. student at Huazhong University of Scien
 :calendar: Hardworking programmer / 💻 PhD student in AI algorithms
 
 ## Resume
-[![Download my CV (PDF)](https://img.shields.io/badge/Resume-PDF-blue?style=flat-square&logo=adobe-acrobat-reader)](https://github.com/yuxin-jiang/yuxin-jiang/blob/main/CV_Yuxin_JIANG.pdf)
+[![Download my CV (PDF)](https://img.shields.io/badge/Resume-PDF-blue?style=flat-square&logo=adobe-acrobat-reader)](https://github.com/yuxin-jiang/yuxin-jiang/raw/main/CV_Yuxin_JIANG.pdf?raw=true)
 
 
 ## About Me [Welcome to My HomePage](https://yuxin-jiang.github.io/)
