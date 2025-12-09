@@ -1,4 +1,4 @@
-# Hi there 👋 ![](https://komarev.com/ghpvc/?username=hustCYQ&color=blue&style=flat-square)
+# Hi there 👋 !
 
 I am Yuxin Jiang. I am currently a Ph.D. student at Huazhong University of Science and Technology under the supervision of Prof. [Weiming Shen](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate).
 
