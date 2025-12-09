@@ -1,22 +1,16 @@
-# Hi there 👋
+# Hi there 👋 !
 
-I'm **Yuxin Jiang**  
-Ph.D. Candidate @ Huazhong University of Science and Technology  
-Supervised by Prof. [Weiming Shen](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate)
+I am Yuxin Jiang. I am currently a Ph.D. student at Huazhong University of Science and Technology under the supervision of Prof. [Weiming Shen](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ&view_op=list_works&sortby=pubdate).
 
-## 🎯 Research Focus
-My work centers on **Anomaly Detection** in computer vision, with cross-domain integration of:
-- Vision-Language Models (VLMs) for semantic-aware anomaly reasoning
-- Image Generation techniques for synthetic anomaly data augmentation
-- General Computer Vision pipelines for industrial & academic scenario deployment
-- 
-If you're interested in collaborative research or academic exchanges, feel free to reach out anytime! I'm always open to discussing novel ideas in anomaly detection and related fields 😄
+**My research focuses on Anomaly Detection, involving Vision-Language Models, Image Generation, and Computer Vision, etc.**
 
-## 📄 Resume & Credentials
-[![Download CV (PDF)](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/yuxin-jiang/yuxin-jiang/blob/main/CV_Yuxin_JIANG.pdf)
+**If you are interested in my academic researches, please feel free to contact me at any time, and I will be happy to communicate with you!** 😊😊😊
 
-## 💡 Personal Tags
-:calendar: Diligent Researcher | 💻 AI Algorithm Developer | 📝 Open-Source Enthusiast
+:calendar: Hardworking programmer / 💻 PhD student in AI algorithms
+
+## 📄 Resume
+[![Download my CV (PDF)](https://img.shields.io/badge/Resume-PDF-blue?style=flat-square&logo=adobe-acrobat-reader)](https://github.com/yuxin-jiang/yuxin-jiang/blob/main/CV_Yuxin_JIANG.pdf)
+
 
 ## About Me [Welcome to My HomePage](https://yuxin-jiang.github.io/)
 
