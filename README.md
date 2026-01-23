@@ -15,7 +15,7 @@ I am Yuxin Jiang. I am currently a Ph.D. student at Huazhong University of Scien
 ## About Me [Welcome to My HomePage](https://yuxin-jiang.github.io/)
 
 ## 🔥 News
-* **2025.12**: &nbsp;🎉🎉 Our paper [VTFusion: A Vision–Text Multimodal Fusion Network for Few-Shot Anomaly Detection]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11360496]) has been accepted by **IEEE Transactions on Cybernetics**.
+* **2025.12**: &nbsp;🎉🎉 Our paper [VTFusion: A Vision–Text Multimodal Fusion Network for Few-Shot Anomaly Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11360496) has been accepted by **IEEE Transactions on Cybernetics**.
 * **2025.11**: &nbsp;🎉🎉 Our paper [Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation](https://arxiv.org/pdf/2511.10020) has been accepted by **AAAI (2026, CCF-A)**.
 * **2024.11**: &nbsp;🏆🏆 I received the **National Scholarship for Master’s Students** (the highest scholarship for master’s students).
 * **2024.09**: &nbsp;🎉🎉 Our paper [Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H7a_bi0AAAAJ&citation_for_view=H7a_bi0AAAAJ:2osOgNQ5qMEC) has been accepted by **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
